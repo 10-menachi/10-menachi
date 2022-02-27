@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @10-menachi
 - 👀 I’m interested in mobile app development using flutter.
 - 🌱 I’m currently learning Flutter framework from the Dart programming language
-- 💞️ I’m looking to collaborate on any flutter developer who's just started so that we can also learn a thing or two from each other.
 - 📫 Tou can find me on Instagram as chris_droid.
 
 <!---
