@@ -1,5 +1,5 @@
 ### Hi there 👋 Chris here 😄
 
-- 🔭 I’m currently working on my very own simple shell
-- 🌱 I’m currently learning C Programming, React JS and Next JS
+- 🔭 I’m currently working on a chat app with flutter
+- 🌱 I’m currently learning Flutter, React JS and Next JS
 - 😄 Pronouns: He / Him
