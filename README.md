@@ -1,4 +1,4 @@
 ### Hi there 👋 Chris here 😄
 
-- 🌱 I’m currently learning Flutter, React JS and Next JS
+- 🌱 I’m currently learning React JS and Ruby
 - 😄 Pronouns: He / Him
