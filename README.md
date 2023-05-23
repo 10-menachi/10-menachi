@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/christian_timbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="christian_timbe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chris-droid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chris-droid/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chris-droid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chris-droid/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/chrisdroid.10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chrisdroid.10/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/chris_droid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chris_droid/" height="30" width="40" /></a>
 </p>
