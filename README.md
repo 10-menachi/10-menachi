@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React JS and JavaScript**
 
-- 📫 How to reach me **timberwamalwa@gmail.com**
+- 📫 Feel free to reach me via **timberwamalwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
